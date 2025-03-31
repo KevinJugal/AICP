@@ -1,0 +1,11 @@
+ollama
+whisper
+sounddevice
+numpy
+scipy
+TTS
+pydub
+torch
+torchaudio
+tempfile
+datetime
